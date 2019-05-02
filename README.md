@@ -1,4 +1,4 @@
-# Master's thesis - Joakim Frogner
+# Master's thesis - Joakim Ihle Frogner
 
 ## 1-D CNNs on motor activity data for detection of depression
 
